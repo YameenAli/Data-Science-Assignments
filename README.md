@@ -4,6 +4,8 @@ This repository contains all of my assignments for the course Data Science.
 
 ## Assignments
 
+- [Assignment 1](/Assignment%201%20Solution) - Go to Assignment 1 Solution.
+- [Assignment 2](/Assignment%202%20Solution) - Go to Assignment 2 Solution.
 - [Assignment 3](/Assignment%203%20Solution) - Go to Assignment 3 Solution.
 
 
