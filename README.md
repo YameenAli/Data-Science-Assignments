@@ -1,6 +1,10 @@
 # Data Science Assignments Repository
 
-This repository contains all of my assignments for the course Data Science.
+This repository contains all of my assignments for the course Data Science. Offered by: 
+
+## ENGR. Muhammad Talha Jahangir
+  <code>MS(Computer Engineering) NUST, Pakistan
+  mtjahangir17@ce.ceme.edu.pk</code>
 
 ## Assignments
 
