@@ -8,14 +8,16 @@ This repository contains all of my assignments for the course Data Science. Offe
 
 ## Assignments
 
-- [Assignment 1](/Assignment%201%20Solution) - Go to Assignment 1 Solution.
-- [Assignment 2](/Assignment%202%20Solution) - Go to Assignment 2 Solution.
-- [Assignment 3](/Assignment%203%20Solution) - Go to Assignment 3 Solution.
-- [Assignment 4](/Assignment%204%20Solution) - Go to Assignment 4 Solution.
-- [Assignment 5](/Assignment%205%20Solution) - Go to Assignment 5 Solution.
-- [Assignment 6](/Assignment%206%20Solution) - Go to Assignment 6 Solution.
-- [Assignment 7](/Assignment%207%20Solution) - Go to Assignment 7 Solution.
-- [Assignment 8](/Assignment%208%20Solution) - Go to Assignment 8 Solution.
+- [Assignment 01](/Assignment%2001%20Solution) - Go to Assignment 01 Solution.
+- [Assignment 02](/Assignment%2002%20Solution) - Go to Assignment 02 Solution.
+- [Assignment 03](/Assignment%2003%20Solution) - Go to Assignment 03 Solution.
+- [Assignment 04](/Assignment%2004%20Solution) - Go to Assignment 04 Solution.
+- [Assignment 05](/Assignment%2005%20Solution) - Go to Assignment 05 Solution.
+- [Assignment 06](/Assignment%2006%20Solution) - Go to Assignment 06 Solution.
+- [Assignment 07](/Assignment%2007%20Solution) - Go to Assignment 07 Solution.
+- [Assignment 08](/Assignment%2008%20Solution) - Go to Assignment 08 Solution.
+- [Assignment 09](/Assignment%2009%20Solution) - Go to Assignment 09 Solution.
+- [Assignment 10](/Assignment%2010%20Solution) - Go to Assignment 10 Solution.
   
   
 
