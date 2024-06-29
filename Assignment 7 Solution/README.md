@@ -1,4 +1,4 @@
-# Assignment 7: Object-Oriented Programming
+# Object-Oriented Programming
 
 This repository contains solutions to assignment focusing on object-oriented programming concepts in Python.
 
