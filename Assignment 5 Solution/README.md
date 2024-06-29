@@ -1,4 +1,4 @@
-# Assignment 5 (Data Science 2)
+# Data Manipulation and Functional Programming concepts
 
 This repository contains the solutions to Assignment 5 for the Data Science 2 course. The assignment covers various topics, including Python programming, data manipulation, and functional programming concepts.
 
