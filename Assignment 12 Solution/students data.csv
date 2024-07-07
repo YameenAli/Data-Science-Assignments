@@ -1,0 +1,10 @@
+id,Name,date_of_birth,gender,entry_academic_period,Math,Reading,Writing
+111111,John,01/2000,M,Fall 2008,80,75,82
+111112,Jane,05/2001,F,Fall 2006,65,56,78
+111113,Sarah,21/2002,M,Fall 2006,92,90,81
+111114,Frank,13/2002,M,Fall 2006,53,62,60
+111115,Mike,31/2001,F,Fall 2007,42,54,50
+111116,Jennifer,01/2002,M,Fall 2006,73,56,70
+111117,Jessica,01/2000,F,Fall 2007,30,62,55
+111118,Fred,17/1999,F,Fall 2010,87,91,80
+111119,Bob,04/1998,F,Fall 2007,98,75,84
