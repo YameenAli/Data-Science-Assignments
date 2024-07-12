@@ -1,15 +1,11 @@
-![image](https://github.com/user-attachments/assets/9a28ecc2-a144-483e-8c38-6b7d2c3fe05a)# Data Science Assignments Repository
+# Data Science Assignments Repository
 
 This repository contains all of my assignments for the course Data Science. Offered by: 
-
-              		    
-![image](https://github.com/user-attachments/assets/19a7e6ff-51f9-4e3b-9954-7f56fd09731b)
-
 ## ENGR. Muhammad Talha Jahangir
   <code>(PhD Scholar from NUST)
   MS(Computer Engineering) NUST, Pakistan
-  (Lecturer in MNS UET, Multan)
-  (CEO: Jtech Solutions & Computer Academy )
+  Lecturer in MNS UET, Multan
+  CEO: Jtech Solutions & Computer Academy 
   mtjahangir17@ce.ceme.edu.pk</code>
 
 ## Assignments
