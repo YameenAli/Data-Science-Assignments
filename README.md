@@ -22,7 +22,7 @@ This repository contains all of my assignments for the course Data Science. Offe
 - [Assignment 10](/Assignment%2010%20Solution) - Go to Assignment 10 Solution.
 - [Assignment 11](/Assignment%2011%20Solution) - Go to Assignment 11 Solution.
 - [Assignment 12](/Assignment%2012%20Solution) - Go to Assignment 12 Solution.
-- [Assignment 13](/Assignment%2013%20Solution) - Go to Assignment 13 Solution.
+- [Assignment 13](/Assignment%2013%20Solution) - Go to Assignment 13 Solution
   
   
 
